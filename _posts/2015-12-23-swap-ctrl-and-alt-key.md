@@ -7,7 +7,7 @@ layout: post
 I use to use Emacs key-bindings(now I use vim keys) and intended to avoid emacs users' [pinky problem](http://ergoemacs.org/emacs/emacs_pinky.html) at the first place. Thus I forced myself to rebuild muscle memory for ctrl-alt-swapping in qwert keyboard.
 
 <div class="message">
-you should try Sharpkeys app first for key remapping purpose, unless Sharpkeys does not meet your demand or you are eager to learn the lower level.
+you should try `Sharpkeys` app first for key remapping purpose, unless Sharpkeys does not meet your demand or you are eager to learn the lower level.
 </div>
 
 ###What I Want:
@@ -42,4 +42,4 @@ Autohotkey was recommended for windows user by [Xah Lee](http://xahlee.info/mswi
 1. enable sticky key feature for remapped keys. Autohotkey is not sticky-keys feature friendly.
 2. tinker it to accept two modifier keys simultaneous, e.g. C-M-h is interpreted wrongly as M-h in Emacs if one or both of Ctrl and Meta/Alt keys used here are remapped ones.
 
-In addition, Sharpkeys is a good GUI for remapping keys, but it cannot understand keyboard with AltGr, which unfortunately is the case for my Finnish/Swedish layout keyboard.
+In addition, `Sharpkeys` is a good GUI for remapping keys, but it cannot understand keyboard with AltGr, which unfortunately is the case for my Finnish/Swedish layout keyboard.
