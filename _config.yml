@@ -10,7 +10,6 @@ permalink:        pretty
 # Setup
 title:            Xi Xiao's Blog
 tagline:          'A Jekyll blog'
-description:      'A Learner Style'
 url:              https://blog.xixiao.info
 baseurl:          /
 
