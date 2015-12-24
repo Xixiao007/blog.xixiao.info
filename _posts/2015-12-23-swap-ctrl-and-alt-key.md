@@ -1,6 +1,7 @@
 ---
 title: "Swap Ctrl and Alt Key"
 layout: post
+tags: keyboard windows
 ---
 
 
