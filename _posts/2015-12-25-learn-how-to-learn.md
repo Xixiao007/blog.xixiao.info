@@ -29,7 +29,7 @@ No rocket science, nothing is hard to digest. You are not expected to have an in
 ### Lastly, study notes for my own restudy
 >I keep updating content here from each reviewing session
 
-- Focused and Diffuse Modes
+- Focused and Diffuse Modes:
     When learning difficult subject, the brain needs to go back and forth between the two different learning modes. That helps learn effectively.
 
 - Chunking information
