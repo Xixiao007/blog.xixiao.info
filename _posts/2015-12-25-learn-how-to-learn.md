@@ -1,6 +1,7 @@
 ---
 title: "Coursera - Learn How To Learn"
 layout: post
+comments: true
 tags: study notes
 ---
 

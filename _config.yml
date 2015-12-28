@@ -31,3 +31,6 @@ post:
 page:
   template: _page.txt
   extension: md
+
+#Disqus comments
+disqus_shortname: 'xixiao'
