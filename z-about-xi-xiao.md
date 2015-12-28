@@ -4,11 +4,13 @@ title: About Xi Xiao
 ---
 
 
+###Something about me
+I am a Chinese living in Finland for 10+ years.
 
 ###Current Life Goal
+- Firstly, I am eager to be a good father and a good husband that my families could unconditionally count on
 - I aim to become a qualified software engineer in my career
-- I learn new IT skills as well as ones in other fields (whenever I have spare time) all the time
-- I am eager to be a good father and a good husband that my families could unconditionally count on
+- I am exploring new topics for opening eye views whenever possible. Currently, German language and MOOC(Massive Open Online Course) courses intrigue me
 
 
 <p class="message">
