@@ -1,6 +1,7 @@
 ---
 title: "Improving Software Testing Skill"
 layout: post
+comments: true
 tags: testing
 ---
 
