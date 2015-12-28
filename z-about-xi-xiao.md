@@ -4,7 +4,7 @@ title: About Xi Xiao
 ---
 
 
-###Something about me
+###Something About Me
 I am a Chinese living in Finland for 10+ years.
 
 ###Current Life Goal
