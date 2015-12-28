@@ -28,6 +28,15 @@ github:
 post:
   template: _post.txt
   extension: md
+
 page:
   template: _page.txt
   extension: md
+
+# Post sharing icons
+sharing:
+    twitter: true
+    linkedin: true
+    facebook: true
+    google_plus: true
+    reddit: true
