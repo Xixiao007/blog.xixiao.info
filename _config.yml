@@ -29,6 +29,10 @@ post:
   template: _post.txt
   extension: md
 
+draft:
+  template: _draft.txt
+  extension: md
+
 page:
   template: _page.txt
   extension: md
