@@ -1,3 +1,3 @@
 # blog
 
-This is a Jekyll blog content with Hyde theme, hosted in cloud server.
+Xi Xiao uses this jekyll blog to share his life stories.
