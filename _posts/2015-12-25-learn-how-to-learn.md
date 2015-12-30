@@ -6,7 +6,7 @@ tags: study-notes
 ---
 
 
-[Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome), a course offered by Dr. Barbara Oakley and Dr. Terrence Sejnowski in Coursera.
+[Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) is a course offered by Dr. Barbara Oakley and Dr. Terrence Sejnowski in Coursera.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/O96fE1E-rf8" frameborder="0" allowfullscreen></iframe></div>
 
