@@ -8,7 +8,7 @@ tags: study-notes
 
 [Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome), a course offered by Dr. Barbara Oakley and Dr. Terrence Sejnowski in Coursera.
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/O96fE1E-rf8" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/O96fE1E-rf8" frameborder="0" allowfullscreen></iframe></div>
 
 ### It is free
 Yes, it is free of charge. Frankly, I wouldn't have subscribed to it if I have had to pay. By given that there are numerous free resources in the internet, I could just pick up any free topic to dig into.
