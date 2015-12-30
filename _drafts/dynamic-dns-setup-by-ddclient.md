@@ -11,3 +11,5 @@ comments: true
 4. sudo service ddclient start
 5. ps -aux | grep ddclient, ensure `ddclient - sleep for xxx seconds`
    /etc/init.d/ddclient status, ensure 'Status of Dynamic DNS service update utility: ddclient is running.'
+6. multiple domain
+http://thornelabs.net/2012/08/22/linux-make-ddclient-work-with-multiple-namecheap-domains.html

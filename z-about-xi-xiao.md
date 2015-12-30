@@ -5,7 +5,7 @@ title: About Xi Xiao
 
 
 ###Something About Me
-I am a Chinese living in Finland for 10+ years.
+Xi is a Chinese living in Finland for 10+ years.
 
 ###Current Life Goal
 - Firstly, I am eager to be a good father and a good husband that my families could unconditionally count on
