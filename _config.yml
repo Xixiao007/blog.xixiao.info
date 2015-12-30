@@ -8,7 +8,7 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Xi Xiao's Blog
+title:            Xi Xiao's
 tagline:          'A Jekyll blog'
 url:              https://blog.xixiao.info
 baseurl:          /
