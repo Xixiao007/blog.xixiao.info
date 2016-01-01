@@ -9,8 +9,8 @@ Xi is a Chinese living in Finland for 10+ years. He aims to become a qualified s
 
 Xi is maintaining these blogs:
 
-1. [dockertechie.com](dockertechie.com) - a docker technology dedicated blog
-2. [blog.xixiao.info](blog.xixiao.info) - other topics: IT, books, studies, etc.
+1. [dockertechie.com](http://dockertechie.com) - a docker technology dedicated blog
+2. [blog.xixiao.info](http://blog.xixiao.info) - other topics: IT, books, studies, etc.
 3. about to start a JavaScript programming language dedicated blog when hands free
 
 **Xi's contact info**
