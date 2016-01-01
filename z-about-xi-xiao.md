@@ -17,7 +17,7 @@ Xi is maintaining two blogs:
 
 ###Current Life Goal
 - Firstly, I am eager to be a good father and a good husband that my families could unconditionally count on
-- I aim to become a qualified software engineer in my career
+- I eager to study cutting-edge web development skills
 - I am exploring new topics for opening eye views whenever possible. Currently, German language and MOOC(Massive Open Online Course) courses intrigue me
 
 
