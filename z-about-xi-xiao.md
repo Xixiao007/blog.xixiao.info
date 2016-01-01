@@ -16,9 +16,11 @@ Xi is maintaining two blogs:
 - about to start a JavaScript programming language dedicated blog when hands free
 
 ###Current Life Goal
-- Firstly, I am eager to be a good father and a good husband that my families could unconditionally count on
-- I eager to study cutting-edge web development skills
-- I am exploring new topics for opening eye views whenever possible. Currently, German language and MOOC(Massive Open Online Course) courses intrigue me
+Xi:
+
+- wants to be a good father and a good husband that my families could unconditionally count on
+- is eager to study cutting-edge web development skills
+- is exploring new topics for opening eye views whenever possible. Currently, German language and MOOC(Massive Open Online Course) courses intrigue me
 
 
 <p class="message">
