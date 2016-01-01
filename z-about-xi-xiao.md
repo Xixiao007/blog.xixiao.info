@@ -11,9 +11,9 @@ He aims to become a qualified software engineer with JavaScript and docker speci
 
 Xi is maintaining two blogs:
 
-- [dockertechie.com](dockertechie.com) - a docker technology dedicated blog
-- [blog.xixiao.info](blog.xixiao.info) - other topics: IT, books, studies, etc.
-- about to start a JavaScript programming language dedicated blog when hands free
+1. [dockertechie.com](dockertechie.com) - a docker technology dedicated blog
+2. [blog.xixiao.info](blog.xixiao.info) - other topics: IT, books, studies, etc.
+3. about to start a JavaScript programming language dedicated blog when hands free
 
 ###Current Life Goal
 Xi:
