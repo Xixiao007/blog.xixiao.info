@@ -4,25 +4,20 @@ title: About Author
 ---
 
 
-###Xi Xiao
-Xi is a Chinese living in Finland for 10+ years.
+###Xi Xiao : 肖曦
+Xi is a Chinese living in Finland for 10+ years. He aims to become a qualified software engineer with JavaScript and docker specialties.
 
-He aims to become a qualified software engineer with JavaScript and docker specialties.
-
-Xi is maintaining two blogs:
+Xi is maintaining these blogs:
 
 1. [dockertechie.com](dockertechie.com) - a docker technology dedicated blog
 2. [blog.xixiao.info](blog.xixiao.info) - other topics: IT, books, studies, etc.
 3. about to start a JavaScript programming language dedicated blog when hands free
 
-###Xi's contact info:
+**Xi's contact info**
 
-- [mainpage](xixiao.info)
-- [linkedin](https://fi.linkedin.com/in/xixiao1)
-- [Github](https://github.com/Xixiao007)
+ <i class="fa fa-sitemap"></i> [mainpage](https://xixiao.info) |     <i class="fa fa-linkedin-square"></i> [linkedin](https://fi.linkedin.com/in/xixiao1)   |  <i class="fa fa-github-square"></i> [Github](https://github.com/Xixiao007)
 
 ###Current Life Goal
-Xi:
 
 - wants to be a good father and a good husband that my families could unconditionally count on
 - is eager to study cutting-edge web development skills
