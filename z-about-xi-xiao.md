@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About Xi Xiao
+title: About Author
 ---
 
 
-###Something About Me
-Xi is a Chinese living in Finland for 10+ years.
+###Xi Xiao
+Xi is a Chinese living in Finland for 10+ years. He aims to become a qualified software engineer with JavaScript and docker specialties.
+I maintain two blogs:
+- [dockertechie.com](dockertechie.com) - a docker technology dedicated blog
+- [blog.xixiao.info](blog.xixiao.info) - other topics: IT, books, studies, etc.
+- about to start a JavaScript programming language dedicated blog when hands free
 
 ###Current Life Goal
 - Firstly, I am eager to be a good father and a good husband that my families could unconditionally count on
