@@ -15,6 +15,12 @@ Xi is maintaining two blogs:
 2. [blog.xixiao.info](blog.xixiao.info) - other topics: IT, books, studies, etc.
 3. about to start a JavaScript programming language dedicated blog when hands free
 
+###Xi's contact info:
+
+- [mainpage](xixiao.info)
+- [linkedin](https://fi.linkedin.com/in/xixiao1)
+- [Github](https://github.com/Xixiao007)
+
 ###Current Life Goal
 Xi:
 
