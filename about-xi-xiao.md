@@ -21,7 +21,7 @@ Xi is maintaining these blogs:
 
 - wants to be a good father and a good husband that my families could unconditionally count on
 - is eager to study cutting-edge web development skills
-- is exploring new topics for opening eye views whenever possible. Currently, German language and MOOC(Massive Open Online Course) courses intrigue me
+- is exploring new topics for opening eye views whenever possible. Currently, German language and MOOC(Massive Open Online Course) courses intrigue him
 
 
 <p class="message">
