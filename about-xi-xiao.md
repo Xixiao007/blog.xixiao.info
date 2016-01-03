@@ -16,6 +16,7 @@ Xi is maintaining these blogs:
 **Xi's contact info**
 
  <!-- <i class="fa fa-sitemap"></i> [mainpage](https://xixiao.info) | <i class="fa fa-linkedin-square"></i> [linkedin](https://fi.linkedin.com/in/xixiao1) | <i class="fa fa-github-square"></i> [Github](https://github.com/Xixiao007) | [<i class="fa fa-facebook-square"></i>Facebook](https://www.facebook.com/xi.xiao3) -->
+<div class="row">
  <div class="col-md-3"><i class="fa fa-sitemap"></i>&nbsp;<a href="https://xixiao.info">mainpage</a></div>
  <div class="col-md-3"><i class="fa fa-linkedin-square"></i>&nbsp;<a href="https://fi.linkedin.com/in/xixiao1">linkedin</a></div>
  <div class="col-md-3"><i class="fa fa-github-square"></i>&nbsp;<a href="https://github.com/Xixiao007">github</a></div>
