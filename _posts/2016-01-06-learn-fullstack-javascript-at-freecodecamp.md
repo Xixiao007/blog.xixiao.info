@@ -1,6 +1,7 @@
 ---
 title: "Learn Full Stack Javascript at FreeCodeCamp"
 layout: post
+tags: study-notes
 comments: true
 ---
 
