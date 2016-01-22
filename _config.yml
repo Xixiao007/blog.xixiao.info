@@ -10,6 +10,7 @@ permalink:        pretty
 # Setup
 title:            Xi Xiao's
 tagline:          'Xi Xiao Blog'
+description:      'Sharing learning experience along the way towards software engineer'
 url:              https://blog.xixiao.info
 baseurl:          /
 
